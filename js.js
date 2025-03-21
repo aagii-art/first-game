@@ -24,7 +24,7 @@ button1.addEventListener("click", () => {
     if (num > num2) {
       win.textContent = "Player 1 won";
     } else if (num == num2) {
-      win.textContent = "hojil 2 tiishee hhahahahah";
+      win.textContent = "(: again :)";
     } else {
       win.textContent = "Player 2 won";
     }
@@ -41,7 +41,7 @@ button2.addEventListener("click", () => {
     if (num > num2) {
       win.textContent = "Player 1 won";
     } else if (num == num2) {
-      win.textContent = "hojil 2 tiishee ";
+      win.textContent = "(: again :)";
     } else {
       win.textContent = "Player 2 won";
     }
